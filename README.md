@@ -1,1 +1,1 @@
-Basic CRUD using http methods and public api 
+# Basic CRUD using HTTP methods and public API
